@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Login-ui/static/css/main.3c076489.chunk.css",
+    "main.css": "/Login-ui/static/css/main.06c54de7.chunk.css",
     "main.js": "/Login-ui/static/js/main.bd58c8b2.chunk.js",
     "main.js.map": "/Login-ui/static/js/main.bd58c8b2.chunk.js.map",
     "runtime-main.js": "/Login-ui/static/js/runtime-main.34dd8763.js",
@@ -8,9 +8,9 @@
     "static/js/2.a908f575.chunk.js": "/Login-ui/static/js/2.a908f575.chunk.js",
     "static/js/2.a908f575.chunk.js.map": "/Login-ui/static/js/2.a908f575.chunk.js.map",
     "index.html": "/Login-ui/index.html",
-    "precache-manifest.486e4504a8e4c233f01bca057d8eb639.js": "/Login-ui/precache-manifest.486e4504a8e4c233f01bca057d8eb639.js",
+    "precache-manifest.c9bd071a2c49aec0805c8a225adc94a7.js": "/Login-ui/precache-manifest.c9bd071a2c49aec0805c8a225adc94a7.js",
     "service-worker.js": "/Login-ui/service-worker.js",
-    "static/css/main.3c076489.chunk.css.map": "/Login-ui/static/css/main.3c076489.chunk.css.map",
+    "static/css/main.06c54de7.chunk.css.map": "/Login-ui/static/css/main.06c54de7.chunk.css.map",
     "static/js/2.a908f575.chunk.js.LICENSE.txt": "/Login-ui/static/js/2.a908f575.chunk.js.LICENSE.txt",
     "static/media/Wave.png": "/Login-ui/static/media/Wave.9ef697cf.png",
     "static/media/undraw_authentication_fsn5.svg": "/Login-ui/static/media/undraw_authentication_fsn5.5911f723.svg"
@@ -18,7 +18,7 @@
   "entrypoints": [
     "static/js/runtime-main.34dd8763.js",
     "static/js/2.a908f575.chunk.js",
-    "static/css/main.3c076489.chunk.css",
+    "static/css/main.06c54de7.chunk.css",
     "static/js/main.bd58c8b2.chunk.js"
   ]
 }
