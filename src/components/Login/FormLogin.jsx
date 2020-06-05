@@ -34,11 +34,10 @@ const LoginForm = styled.div`
         font-family: var(--Montserrat);
         padding: 0;
         margin: 0;
-        padding-left: .5rem;
+        text-align: center;
       }
 
       h6 {
-        padding-left: 4.5rem;
         font-family: var(--Lobster);
         color: #444444D2;
       }
