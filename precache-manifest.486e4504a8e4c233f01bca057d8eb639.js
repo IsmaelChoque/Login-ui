@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "75b80623c3b4f06aaa4ffe53ebe68945",
+    "revision": "aa910770ff1dc6143d94e0fed6d0d124",
     "url": "/Login-ui/index.html"
   },
   {
-    "revision": "3305db61e3a8938cebce",
+    "revision": "b8d9f7a335298d0a7b2f",
     "url": "/Login-ui/static/css/main.3c076489.chunk.css"
   },
   {
-    "revision": "fc6b60d42c32eb649ffe",
-    "url": "/Login-ui/static/js/2.bfbb5ca0.chunk.js"
+    "revision": "4d665c7484192284230f",
+    "url": "/Login-ui/static/js/2.a908f575.chunk.js"
   },
   {
-    "revision": "e88a3e95b5364d46e95b35ae8c0dc27d",
-    "url": "/Login-ui/static/js/2.bfbb5ca0.chunk.js.LICENSE.txt"
+    "revision": "c64c486544348f10a6d6c716950bc223",
+    "url": "/Login-ui/static/js/2.a908f575.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "3305db61e3a8938cebce",
-    "url": "/Login-ui/static/js/main.7d2a697a.chunk.js"
+    "revision": "b8d9f7a335298d0a7b2f",
+    "url": "/Login-ui/static/js/main.bd58c8b2.chunk.js"
   },
   {
     "revision": "6f9d4fe085c6a3bbd8b2",
