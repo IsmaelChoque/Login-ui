@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Login-ui/static/css/main.3c076489.chunk.css",
+    "main.js": "/Login-ui/static/js/main.7d2a697a.chunk.js",
+    "main.js.map": "/Login-ui/static/js/main.7d2a697a.chunk.js.map",
+    "runtime-main.js": "/Login-ui/static/js/runtime-main.34dd8763.js",
+    "runtime-main.js.map": "/Login-ui/static/js/runtime-main.34dd8763.js.map",
+    "static/js/2.bfbb5ca0.chunk.js": "/Login-ui/static/js/2.bfbb5ca0.chunk.js",
+    "static/js/2.bfbb5ca0.chunk.js.map": "/Login-ui/static/js/2.bfbb5ca0.chunk.js.map",
+    "index.html": "/Login-ui/index.html",
+    "precache-manifest.9155be309484661ffbacfee279190476.js": "/Login-ui/precache-manifest.9155be309484661ffbacfee279190476.js",
+    "service-worker.js": "/Login-ui/service-worker.js",
+    "static/css/main.3c076489.chunk.css.map": "/Login-ui/static/css/main.3c076489.chunk.css.map",
+    "static/js/2.bfbb5ca0.chunk.js.LICENSE.txt": "/Login-ui/static/js/2.bfbb5ca0.chunk.js.LICENSE.txt",
+    "static/media/Wave.png": "/Login-ui/static/media/Wave.9ef697cf.png",
+    "static/media/undraw_authentication_fsn5.svg": "/Login-ui/static/media/undraw_authentication_fsn5.5911f723.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.34dd8763.js",
+    "static/js/2.bfbb5ca0.chunk.js",
+    "static/css/main.3c076489.chunk.css",
+    "static/js/main.7d2a697a.chunk.js"
+  ]
+}
